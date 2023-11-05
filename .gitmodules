@@ -1,0 +1,3 @@
+[submodule "SubLib"]
+	path = SubLib
+	url = https://github.com/boerkoen/SubLib
